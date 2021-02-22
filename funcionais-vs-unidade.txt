@@ -1,0 +1,5 @@
+Testes de unidade são testes automáticos criados para conferirem saidas e entradas de cada método, para saber se funcionam
+adequadamente. Eles também mostram se cada unidade atende sua especificação.
+
+Já testes funcionais nos permite identificar falhas nas junções das unidades (Classe X funciona bem, ao juntar com Y, falha).
+Ajudam a assegurar performance e confiabilidade
