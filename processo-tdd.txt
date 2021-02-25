@@ -1,0 +1,4 @@
+Começamos criando testes funcionais que precisam de código para passarem, porém para criar esse código
+precisamos de testes unitários, e o código vai sendo escrito a medida que criamos os testes.
+
+Quando os testes (tanto unitarios quanto funcionais) passam olhamos se é necessário refatorar.
